@@ -16,9 +16,10 @@ body {
 }
 
 .header img {
-    width: 60px;
+    width: 70px;
     height: 70px;
     position: absolute;
+    left: 5px;
     
 }
 
@@ -50,7 +51,8 @@ body {
     position: absolute;
     left: 80px;
     top: 15px;
-    font-size: 30px;
+    font-size: 35px;
+    text-shadow: 4px 4px 4px rgb(93, 93, 93);
 }
 
 .header {
