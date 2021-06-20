@@ -79,11 +79,7 @@ body {
     margin: 100px auto;
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
-    border-top: 5px solid rgb(17, 141, 179);
-    border-left: 5px solid rgb(17, 141, 179);
-    border-right: 5px solid rgb(17, 141, 179);
-    border-top-right-radius: 20px;
-    border-top-left-radius: 20px;
+
 }
 
 .container .hero {
@@ -91,8 +87,6 @@ body {
     height: 500px;
     background-size:cover;
     background-position: 0px -360px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
 }
 
 .container .date {
@@ -207,7 +201,7 @@ body {
 .subhead .left {
     width: 350px;
     float:left;
-    padding-left: 50px;
+    padding-left: 28px;
     text-align: center;
 }
 
